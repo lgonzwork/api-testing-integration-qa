@@ -99,3 +99,15 @@ Generates an interactive audit dashboard saved at .\reports\LatestExecutionRepor
 
 ## CI/CD Pipeline Status: 
 Automated push events trigger continuous execution on Ubuntu runners, archiving the generated HTML report as a build artifact in GitHub Actions.
+
+
+<img width="1910" height="1005" alt="gitfolioapi_image7" src="https://github.com/user-attachments/assets/b5a10d08-5376-4953-b0eb-8a621e18ccc4" />
+
+
+<img width="837" height="585" alt="gitfolioapi_image9" src="https://github.com/user-attachments/assets/43ebb7bb-9fbf-4c6a-8319-0e083825f94f" />
+
+
+<img width="946" height="1010" alt="gitfolioapi_image10" src="https://github.com/user-attachments/assets/a09c478c-299c-4675-af1a-126fc397dc66" />
+
+
+<img width="1270" height="391" alt="gitfolioapi_image8" src="https://github.com/user-attachments/assets/d596718a-4db8-4668-84c5-8bcec0199e74" />
