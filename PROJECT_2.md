@@ -43,3 +43,7 @@ pm.test("Environment variable 'created_post_id' set successfully", function (){
 - Test Suite Status: 2/2 Passed (PASS)
 - Environment State: Variable `created_post_id` populated automatically in `LAB_Environment`.
 - Request 2 Execution: URL resolves dynamically to `https://jsonplaceholder.typicode.com/posts/101` (or extracted ID value) without manual entry.
+
+
+
+<img width="1919" height="1013" alt="gitfolioapi_image2" src="https://github.com/user-attachments/assets/23187916-6447-473a-b0dd-91e1640609e4" />
