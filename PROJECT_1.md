@@ -43,3 +43,7 @@ pm.test("Payload contains a valid numeric ID equal to 1", function (){
     - Status code is 200 OK — PASS
     - Header Content-Type includes application/json — PASS
     - Payload contains a valid numeric ID equal to 1 — PASS
+   
+      
+
+<img width="1906" height="1016" alt="gitfolioapi_image1" src="https://github.com/user-attachments/assets/f9938324-1927-468d-aa6e-283e7c6b155b" />
